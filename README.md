@@ -59,7 +59,7 @@ Ensure the following are installed on your system:
 git clone <repository-url>
 cd email-server
 ```
-````
+
 
 ### 2. Backend Setup
 
